@@ -11,5 +11,5 @@ Use **spring-boot:run** goal of mvn to start application at default port 8080 or
 
    ``./mvnw spring-boot:run``
    
-Open default home page at ``http://localhost:8080``
+Open [default home](http://localhost:8080) page
 
